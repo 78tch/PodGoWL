@@ -24,14 +24,22 @@
 |Xotic|EP Booster|Kinky Boost|
 |Klon|Centaur|Minotaur|
 |Analogman|Prince of Tone|Heir Apparent!|
+|Fulltone|OCD|Compulsive Drive|
+|Chandler|Tube Driver|Valve Driver|
 |Ibanez|TS808 Tube Screamer|Scream 808|
 |MAXON|SD9 Sonic Distortion|Hedgehog D9|
-|BOSS| SD-1 Overdrive|Stupor OD|
+|BOSS|SD-1 Overdrive|Stupor OD|
 |Pro Co|RAT|Vermin Dist|
 |Arbiter|FuzzFace|Arbitrator Fuzz|
 |‘73 Electro-Harmonix|Ram’s Head Big Muff Pi|Bighorn Fuzz|
 |Electro-Harmonix|Big Muff Pi|Triangle Fuzz|
 
+- ポイント5：アンプを決めて、エフェクターをいろいろ試す  
+Factory Preset をいろいろいじって感覚が分かってきたら、イチから自分でプリセットを設定しましょう。  
+順序としては、アンプを決めて、エフェクターをいろいろ試す、という流れです。  
+なおかつ、目標・目的を決めて、どんな音を作るのかある程度目星をつけてから作業しないと、できることが多すぎて迷子になってしまいます。  
+例えば、「リード（ソロギター）のクリーン」、「リードの歪み」、「バッキング（アルペジオ弾き）のクリーン」の３音色を作る、などです。  
+この時に、できれば、「アンプの設定はそのままに、エフェクターのオン・オフで切り替える」という形を目指します。
 
 ## Factory Preset 一覧
 | No   | Bank | ABCD | Preset Name      | アンプ名そのまま |      |
