@@ -7,21 +7,31 @@
 プリセットの数は、グループが「Factory Preset」と「User Preset」の２つあり、それぞれに128個までセットできる。「User Preset」には空（カラ）で特に設定が入っていないが、「Factory Preset」には119番目まで設定が入っている。  
 大きく3種類あり、1～44(44個)：ギター用、アンプ名がプリセット名。45～52(8個)：ベース用、アンプ名がプリセット名。53～119(67個)：ギター用、有名な曲をイメージしたプリセット。（元ネタが分かるのと分からないのとあり。求む情報。）
 - ポイント3：「アンプ」で探す  
-お気に入りのアンプがあるのであれば、それをベースとしたモデルのアンプを使っているプリセットを探してまずは試すと、気に入った音が見つけやすい。例えば  
+お気に入りのアンプがあるのであれば、それをベースとしたモデルのアンプを使っているプリセットを探してまずは試すと、気に入った音が見つけやすい。例えば、定番である、VOXのAC30のTB、FenderのTwinReverb、RolandのJC120、MarshallのJCM-800などは、他のマルチやアンプシミュレーターなどでもモデルが入っていることが多いので、まずはこれらから試すとよいでしょう。その他のアンプは、これらで納得がいかなかったらその後に試せばよいと思います。  
 
 | メーカー | アンプ | Pod Goのモデル名 |
 | :--- | :--- | :--- |
 |VOX|AC30（トップブースト）|Essex A30|
 |Fender|TwinReverb|US Double Nrm|
 |Roland|JC120|Jazz Rivet 120|
+|Marshall|JCM-800|Brit 2204|
 
 - ポイント4：「ディストーション」で探す  
 同様に、お気に入りの「歪みペダル」があるのであれば、それをベースとしたモデルのエフェクターを使っているプリセットを探して試すと、求めている音が探しやすい。  
 
 | メーカー | エフェクター | Pod Goのモデル名 |
 | :--- | :--- | :--- |
-|VOX|AC30（トップブースト）|Essex A30|
-|Fender|TwinReverb|US Double Nrm|
+|Xotic|EP Booster|Kinky Boost|
+|Klon|Centaur|Minotaur|
+|Analogman|Prince of Tone|Heir Apparent!|
+|Ibanez|TS808 Tube Screamer|Scream 808|
+|MAXON|SD9 Sonic Distortion|Hedgehog D9|
+|BOSS| SD-1 Overdrive|Stupor OD|
+|Pro Co|RAT|Vermin Dist|
+|Arbiter|FuzzFace|Arbitrator Fuzz|
+|‘73 Electro-Harmonix|Ram’s Head Big Muff Pi|Bighorn Fuzz|
+|Electro-Harmonix|Big Muff Pi|Triangle Fuzz|
+
 
 ## Factory Preset 一覧
 | No   | Bank | ABCD | Preset Name      | アンプ名そのまま |      |
