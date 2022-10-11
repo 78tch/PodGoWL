@@ -18,7 +18,11 @@ VIEWボタンとACTIONボタンの同時押しでSAVE
 ### 完全初期化（工場出荷状態）
 CスイッチとDスイッチを同時に押しながら電源ON
 ### グローバルセッティングの消去
-
+◀PAGEボタンとPAGE▶ボタンの同時押しでMENU画面を開く。  
+ノブ5 (Global Settings)を押します。  
+Global SettingsメニューからACTIONを押します。  
+ノブ1 (Factory Settings)を押します  
+ノブ5 (OK)を押します。  
 ## 本体画面用語  
 * プリセット・モード/ストンプ・モード/Snapshotフットスイッチ・モード
 * プレイ画面/エディット画面
